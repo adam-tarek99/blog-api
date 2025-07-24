@@ -14,7 +14,7 @@ Includes basic CRUD operations for users and blog posts, with validation and per
 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/blog-api.git
+git clone https://github.com/your-username/blog-api.git](https://github.com/adam-tarek99/blog-api.git
 cd blog-api
 
 npm install
